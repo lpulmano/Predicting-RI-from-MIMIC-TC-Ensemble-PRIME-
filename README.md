@@ -10,3 +10,5 @@ I do not know how to load "Training Set" and its contents as the training data f
 I do not know how to load the individual storm directories in "Testing Set" as testing data for the model.
 
 I am having great difficulty in loading my custom datasets into the model.
+
+File paths are in the Windows OS format.
