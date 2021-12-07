@@ -4,7 +4,9 @@
 These scripts are not needed for the CNN to run.  Only the produced images are required, which will be linked as a Google Drive download (https://drive.google.com/drive/folders/1oGStvodx2EUwYsD23Xc81c1yR25-qdtZ?usp=sharing)
 
 cRI = Current RI
+
 pRI = Possible RI
+
 nRI = No RI
 
 The images in the above categories have not been reviewed if they best fit RI criteria/satellite images as of 12/07/21 (December 7 2021).
