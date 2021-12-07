@@ -1,7 +1,7 @@
 # MIMIC-TC-Dataset-v3-NEW
 
 "Processing Code" folder is simply a collection of scripts I created to convert the respective csv files for each storms into their images.
-These scripts are not needed for the CNN to run.  Only the produced images are required, which will be linked as a Google Drive download.
+These scripts are not needed for the CNN to run.  Only the produced images are required, which will be linked as a Google Drive download (https://drive.google.com/drive/folders/1oGStvodx2EUwYsD23Xc81c1yR25-qdtZ?usp=sharing)
 
 "Model" folder currently contains my attempts at loading the RI dataset and running the DeepMicroNet model architecture.
 The different "model *.py" files are separate attempts of trying out new code; they are similar in some aspects but for the most part, trying to load the datasets is different for each.
