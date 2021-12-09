@@ -20,3 +20,23 @@ I do not know how to load the individual storm directories in "Testing Set" as t
 I am having great difficulty in loading my custom datasets into the model.
 
 File paths are in the Windows OS format.
+
+Pip installations:
+
+pip install scikit-image
+
+pip install pandas
+
+pip install scikit-learn
+
+pip install opencv-python
+
+pip install split-folders
+
+pip install tensorflow
+
+pip install seaborn
+
+pip install ipython
+
+pip install 
