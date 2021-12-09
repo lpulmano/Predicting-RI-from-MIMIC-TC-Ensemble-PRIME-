@@ -40,3 +40,7 @@ pip install seaborn
 pip install ipython
 
 pip install matplotlib
+
+pip install jupyterlab
+
+pip install jupyter
