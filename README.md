@@ -39,4 +39,4 @@ pip install seaborn
 
 pip install ipython
 
-pip install 
+pip install matplotlib
