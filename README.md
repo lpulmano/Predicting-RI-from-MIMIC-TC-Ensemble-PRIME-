@@ -21,6 +21,10 @@ I am having great difficulty in loading my custom datasets into the model.
 
 File paths are in the Windows OS format.
 
+Tensorboard Command:
+
+tensorboard --logdir logs/
+
 Pip installations:
 
 pip install scikit-image
