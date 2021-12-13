@@ -10,6 +10,7 @@ showing images using matplotlib, loading datasets, and more.  It is not required
 The different "model *.py" files are separate attempts of trying out new code; they are similar in some aspects but for the most part, trying to load the datasets is different for each.
 
 Nomenclature:
+
 cRI = Current RI
 
 pRI = Possible RI
