@@ -25,7 +25,7 @@ File paths are in the Windows OS format.
 
 Tensorboard Command:
 
-tensorboard --logdir logs/
+tensorboard --logdir Model/logs/
 
 Pip installations:
 
