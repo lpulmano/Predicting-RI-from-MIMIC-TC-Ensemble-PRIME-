@@ -1,7 +1,7 @@
 # MIMIC-TC-Dataset-v3-NEW
 
 "Processing Code" folder is simply a collection of scripts I created to convert the respective csv files for each storms into their images.
-These scripts are not needed for the CNN to run.  Only the produced images are required, which will be linked as a Google Drive download (https://drive.google.com/drive/folders/1oGStvodx2EUwYsD23Xc81c1yR25-qdtZ?usp=sharing)
+These scripts are not needed for the CNN to run.  Only the produced images are required, which will be linked as a Google Drive download (https://drive.google.com/drive/folders/1cbZ6LZb9uGy3Nqm0GgH9MBkjGB59soZw?usp=sharing)
 
 "Practice files" folder contains relics in both "Processing Code" and "Model" folders.  It shows my first attempts at reading .csv data, 
 showing images using matplotlib, loading datasets, and more.  It is not required for the model to run.
