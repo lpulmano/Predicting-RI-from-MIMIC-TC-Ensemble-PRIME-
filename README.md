@@ -1,4 +1,4 @@
-# MIMIC-TC-Dataset-v3-NEW
+# MIMIC-TC Dataset v4
 
 "Processing Code" folder is simply a collection of scripts I created to convert the respective csv files for each storms into their images.
 These scripts are not needed for the CNN to run.  Only the produced images are required, which will be linked as a Google Drive download (https://drive.google.com/drive/folders/1cbZ6LZb9uGy3Nqm0GgH9MBkjGB59soZw?usp=sharing)
